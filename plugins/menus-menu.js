@@ -185,9 +185,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ▢ _${usedPrefix}stickerpack *<url>*_
  ▢ _${usedPrefix}wallpaper *<txt>*_ 
  ▢ _${usedPrefix}dapk2 *<url>*_
- ▢ _${usedPrefix}xnxxdl *<url>*_ (🔞)
- ▢ _${usedPrefix}xvideosdl *<url>*_ (🔞)
-
+ 
 
  _*< BUSCADORES />*_
 
@@ -508,3 +506,5 @@ function clockString(ms) {
   const s = isNaN(ms) ? '--' : Math.floor(ms / 1000) % 60;
   return [h, m, s].map((v) => v.toString().padStart(2, 0)).join(':');
 }
+/ninstagram.com/f.b.i_ys._ess._ui_.di_man_6000
+اللهم إني عبدك وابن عبدك ناصيي بيدك ماض في حكمك عدل في قضاءك أسألك بكل إسم هو لك سميت به نفسك أو أنزلته في كتابك أو علمته أحدا من خلقك أو إستأترت به في علم الغيب عندك أن تجعل القرآن العظيم ربيع قلبي ونور صدري وجلاء حزني وذهاب همي
